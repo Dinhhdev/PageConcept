@@ -1,0 +1,77 @@
+@import url('font.css');
+.row {
+    margin-bottom: 20px;
+}
+
+.features h4 {
+    margin-top: 2px;
+}
+
+.navbar .nav {
+    margin-top: 5px;
+}
+
+[class^="icon-"].left,
+[class*=" icon-"].left {
+    float: left;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+    margin-top: 1px;
+    margin-right: 5px;
+}
+
+.icon1 {
+    width: 24px;
+    height: 24px;
+    padding: 4px;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.row {
+    margin-left: -20px;
+    *zoom: 1;
+}
+
+[class*="span"] {
+    float: left;
+    min-height: 1px;
+    margin-left: 20px;
+}
+
+.container,
+.navbar-static-top .container,
+.navbar-fixed-top .container,
+.navbar-fixed-bottom .container {
+    width: 980px;
+}
+
+.span1 {
+    width: 940px;
+}
+
+.span2 {
+    width: 220px;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    *zoom: 1;
+}
+
+.icon-suitcase:before {
+    content: "\f002";
+}
+
+.icon-pencil:before {
+    content: "\f040";
+}
+
+img {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+}

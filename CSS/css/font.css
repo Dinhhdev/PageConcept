@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'FontAwesome';
+    src: url('../font/fontawesome-webfont.ttf?v=3.0.1');
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+    font-family: FontAwesome;
+}
+
+body {
+    margin: 0;
+    font-family: Tahoma, Arial, sans-serif;
+    font-size: 13px;
+    line-height: 1.6em;
+    color: #666;
+    background-color: #ffffff;
+}
+
+h4 {
+    font-size: 18px;
+}
+
+h3 {
+    font-size: 20px;
+    color: #FF0000;
+}
+
+.icon {
+    color: #FFFF00;
+}
+
+.icon {
+    background-color: #444;
+    border-radius: 10px;
+}
+
+.icon {
+    background-color: #444;
+}
